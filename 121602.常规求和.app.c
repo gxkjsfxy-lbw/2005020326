@@ -9,5 +9,5 @@ for(b=1;b<=a;b++)
 	{
 	n+=b;
 	}
-printf("%d\n",n);
+printf("总和=%d\n",n);
 }
